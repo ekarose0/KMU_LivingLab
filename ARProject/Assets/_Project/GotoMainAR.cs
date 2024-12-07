@@ -35,17 +35,17 @@ public class GotoMainAR : MonoBehaviour
         Logo.SetActive(false);
     }
 
-    public void StartGo(int index)
+    public void StartGoByName(string sceneName)
     {
-        StartCoroutine(StartGoUIDOle(index));    
+        StartCoroutine(StartGoScene(sceneName));
     }
 
-    IEnumerator StartGoUIDOle(int index)
+    IEnumerator StartGoScene(string sceneName)
     {
         Bird.SetBool("GO", true);
         Uidole.SetBool("GO", true);
 
         yield return new WaitForSeconds(3.0f);
-        SceneManager.LoadSceneAsync(index, LoadSceneMode.Single);
+        SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Single);
     }
 }

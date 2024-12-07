@@ -1,0 +1,104 @@
+{
+    "entries": [
+        {
+            "koreanName": "의정부역",
+            "englishName": "Uijeongbu Station Route"
+        },
+        {
+            "koreanName": "의정부 시청",
+            "englishName": "CityHallRoute"
+        },
+        {
+            "koreanName": "의정부 예술의 전당",
+            "englishName": "ArtCenterRoute"
+        },
+        {
+            "koreanName": "의정부 부대찌개 거리",
+            "englishName": "BudaeRoute"
+        },
+        {
+            "koreanName": "경민대학교",
+            "englishName": "Kyungmin University Route"
+        },
+        {
+            "koreanName": "안산역",
+            "englishName": "Ansan StationRoute"
+        },
+        {
+            "koreanName": "안산 시청",
+            "englishName": "Ansan City HallRoute"
+        },
+        {
+            "koreanName": "안산갈대습지",
+            "englishName": "Ansan Reed MarshRoute"
+        },
+        {
+            "koreanName": "구봉도 낙조전망대",
+            "englishName": "Gubongdo sunsetRoute"
+        },
+        {
+            "koreanName": "안산대학교",
+            "englishName": "Ansan UniversityRoute"
+        },
+        {
+            "koreanName": "안양역",
+            "englishName": "Anyang Station Route"
+        },
+        {
+            "koreanName": "안양 시청",
+            "englishName": "Anyang City Hall Route"
+        },
+        {
+            "koreanName": "예술공원",
+            "englishName": "Anyang Art Park Route"
+        },
+        {
+            "koreanName": "안영사",
+            "englishName": "Anyang Temple Route"
+        },
+        {
+            "koreanName": "연성대학교",
+            "englishName": "Anyang Yeonseong University Route"
+        },
+        {
+            "koreanName": "안성 버스터미널",
+            "englishName": "Anseong Bus Terminal Route"
+        },
+        {
+            "koreanName": "안성 시청",
+            "englishName": "Anseong City Hall Route"
+        },
+        {
+            "koreanName": "허브마을",
+            "englishName": "Anseong Herb Village Route"
+        },
+        {
+            "koreanName": "안성 맞춤랜드",
+            "englishName": "Anseong Custom Land Route"
+        },
+        {
+            "koreanName": "동방예술대학교",
+            "englishName": "Anseong Dong-A University of Broadcasting Arts Route"
+        },
+        {
+            "koreanName": "시외버스터미널",
+            "englishName": "Pochen Bus terminalRoute"
+        },
+        {
+            "koreanName": "포천 시청",
+            "englishName": "Pochen city hallRoute"
+        },
+        {
+            "koreanName": "아트랠리",
+            "englishName": "Pocheon Art ValleyRoute"
+        },
+        {
+            "koreanName": "허브아일랜드",
+            "englishName": "Herb IslandRoute"
+        },
+        {
+            "koreanName": "산정호수",
+            "englishName": "Sanjeong LakeRoute"
+        }
+    ]
+}
